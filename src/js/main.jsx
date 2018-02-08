@@ -4,8 +4,6 @@ import {Routing} from './components/routing.jsx';
 
 require('../sass/main.scss');
 
-// import sthg from './sthg.jsx';
-
 document.addEventListener('DOMContentLoaded', function () {
 
     class App extends React.Component {
